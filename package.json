@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/ckswjd99/TypeChain#readme",
   "dependencies": {
-    "typescript": "^4.1.5",
-    "tsc-watch": "^4.2.9"
+    "crypto-js": "^4.0.0",
+    "tsc-watch": "^4.2.9",
+    "typescript": "^4.1.5"
   }
 }
