@@ -1,0 +1,21 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Clone Coding of https://nomadcoders.co/typescript-for-beginners",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckswjd99/TypeChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckswjd99/TypeChain/issues"
+  },
+  "homepage": "https://github.com/ckswjd99/TypeChain#readme"
+}
